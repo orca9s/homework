@@ -68,6 +68,7 @@ def turn_on():
     else:
         print(search_result_list)
 
+
 turn_on()
 
 # search_result_list = [a_text for a_text in a_text_list if '노블' in a_text]
